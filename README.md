@@ -65,7 +65,7 @@ A comprehensive Windows desktop Point of Sale (POS) and inventory management app
 ### Development Setup
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/retail-pos-system.git
+git clone https://github.com/01-Madhu/retail-pos-system.git
 
 # Open in Visual Studio
 cd retail-pos-system
