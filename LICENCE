@@ -1,11 +1,10 @@
-#### *📍 LICENSE* - Place in *ROOT* folder  
-*File Path:* C:\YourProject\RetailPOS\LICENSE
+## 📄 *Additional Required Files*
 
-*Content to put in LICENSE:*
+### *1. LICENSE File* (LICENSE)
 ```text
 MIT License
 
-Copyright (c) 2024 Retail POS System
+Copyright (c) 2025 Retail POS System
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
