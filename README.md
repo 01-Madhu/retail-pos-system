@@ -54,13 +54,11 @@ A comprehensive Windows desktop Point of Sale (POS) and inventory management app
 - .NET 8.0 Runtime
 - Visual Studio 2022 (for development)
 
-### Quick Start
-1. Download the latest release
-2. Extract to desired location
-3. Run RetailPOS.exe
-4. Use default credentials:
-   - *Username*: admin
-   - *Password*: 1234
+## Setup
+1. Run Database/create_db.sql on your SQL Server instance.
+2. Update appsettings.json with your connection string.
+3. Sample credentials provided in documentation.
+
 
 ### Development Setup
 ```bash
